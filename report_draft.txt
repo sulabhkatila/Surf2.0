@@ -1,0 +1,30 @@
+What is it that you are doing?
+
+I am analyzing the sale data. Sale data of what you may ask. It is data of real wstate market, I am analyzing properties of new york city, their features, and their sale price.
+
+
+Where does this data come from?
+
+The City publishes this data. The data, although not complete, has to go through my own cleaning phase first.
+
+
+How do you clean this said data?
+
+We would need to dive into the technical elements for me to truly express what was done for the purpose of cleaning the data. However, if you are curious, it was all standard procesure that we followed.
+-- we followed a very standard protocol for cleaning the data, which included removing rows, if they fit certain criteria, same with rows. And also, we did not artificially fill the data, or really we did not do it yet, but if we were to, we would definitely not be very innovative and use established protocols to do it.
+
+
+How are we approaching the analysis of the data?
+
+The data is being targeted in a very systematic manner. The data is huge, and is composed of a diverse set of data points. So diverse that trying to analyze it all together would not be super helpful. What this research does, is it first decomposes the data into multiple types, first by borough, then by the type of property it is. And by "the type of property" we obviously mean the Building's class categoy.
+We first analyze the Buildings with Rental apartments (commercial, residentail, or both).
+
+The specific building class are: (07 Rentals - Walkup Apartments, 08 Rentals - Elevator Apartments, 14 Rentals - 4-10 Unit)
+
+The most important features:
+- Gross Square Feet (total size of the building)
+- Total Residential Units
+- Total Commercial Units
+
+
+(some questions, how likely are you to get a descent sized apartment, how likely are you to 
