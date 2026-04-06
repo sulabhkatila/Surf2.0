@@ -27,4 +27,49 @@ The most important features:
 - Total Commercial Units
 
 
-(some questions, how likely are you to get a descent sized apartment, how likely are you to 
+(some questions, how likely are you to get a descent sized apartment, how likely are you to )
+
+
+
+(As interesting as the information is byitself, it is not super important for most of us, not many people are truly intersted in buying an entire rental building with multiple units.)
+for the general people
+What is more valuable is the how is coops and condos being priced. What makes coop and condo more pricey.
+
+
+Coops:
+
+(but we have a problem, the data on coops are not as varied as
+
+We are 
+
+
+
+first slide:
+Intro to the topic, then talk about the structure of the presentation.
+
+Slide 2:
+Structure of the research (exploratory)
+Goal
+
+Slide 3:
+Where we got the data, a short description on the source of the data, why do they collect, how do they have the informaiton on it.
+Features/columns that are involved in the data.
+
+Slide 4:
+Approach (divide and conquer)
+
+
+Slide 5:
+How exactly do we divide, the first and the obvious thing that comes to mind is the Borough (the data set is divided to borough wise dataset)
+then we know neighborhood is also different (the research takes that into account as well), it does not per say create seperate data sets for each neighborhood (because doing so manually will be unfeasable) but we just analyze specific neighborhood based on their perceived importance)
+
+
+Slide 6:
+Property types >> explaination for Rental apartment buildings, coops, condos, office buildings, ...
+
+
+Slide 7: 
+Up next we will be diving into some of the visualizations and what they mean, to get a sense of how the research is dealing with the data and how insights are being derived.
+
+
+(( these are some of the interesting things that have been derived so far ))
